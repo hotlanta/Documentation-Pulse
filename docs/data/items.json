@@ -1,1 +1,230 @@
-{"updated":null,"sources":[],"voices":[],"items":[]}
+{
+ "updated": "2026-11-16T19:45:20.735238+00:00",
+ "sources": [
+  {
+   "name": "I'd Rather Be Writing",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "Write the Docs",
+   "ok": false,
+   "count": 0,
+   "error": "<unknown>:21:69: not well-formed (invalid token)"
+  },
+  {
+   "name": "Docusaurus releases",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "MkDocs Material releases",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "Sphinx releases",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "Vale releases",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "dev.to: documentation",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "Medium: technical writing",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "Hacker News: documentation",
+   "ok": true,
+   "count": 3
+  }
+ ],
+ "voices": [
+  {
+   "name": "Tom Johnson on X",
+   "platform": "X",
+   "url": "https://x.com/tomjohnson",
+   "note": "Technical writing, AI and docs"
+  },
+  {
+   "name": "Write the Docs on LinkedIn",
+   "platform": "LinkedIn",
+   "url": "https://www.linkedin.com/company/write-the-docs/",
+   "note": "Community announcements"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://medium.com/p/b0a2f3259d56",
+   "title": "Cookies vs Cache vs Sessions: What’s the Difference?",
+   "link": "https://medium.com/@sajnispace/cookies-vs-cache-vs-sessions-whats-the-difference-b0a2f3259d56?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-16T17:52:00+00:00",
+   "summary": "You visit a website and see a dialogue box saying, “This website uses cookies,” with a few options to choose from. Sometimes, you may also… Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/miloserdev/news-documentation-markdown-engine-35bf",
+   "title": "News & Documentation markdown engine",
+   "link": "https://dev.to/miloserdev/news-documentation-markdown-engine-35bf",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-16T16:34:06+00:00",
+   "summary": "A file-based markdown engine. Point it at a folder of markdown files — an Obsidian vault, for example — and get a fast three-column news site: menu, feed, reader. No database, no logins, no users. 📁 File-based architecture — organize articles in folders. ✍️ Markdown-first —…"
+  },
+  {
+   "id": "https://medium.com/p/59a887852cf0",
+   "title": "How to test your API error docs before a customer does",
+   "link": "https://medium.com/@jameson_64305/how-to-test-your-api-error-docs-before-a-customer-does-59a887852cf0?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-16T15:56:58+00:00",
+   "summary": "Eight scenarios, one owner per page, and a better question than “did support tickets go down?” Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/docstar_io/docstar-vs-mintlify-docs-mcp-servers-and-team-editing-compared-2h8l",
+   "title": "DocStar vs Mintlify: Docs, MCP Servers and Team Editing Compared",
+   "link": "https://dev.to/docstar_io/docstar-vs-mintlify-docs-mcp-servers-and-team-editing-compared-2h8l",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-16T15:40:04+00:00",
+   "summary": "Mintlify and DocStar both publish modern developer documentation, and both take AI assistants seriously. They differ in who writes the docs, how much beyond the API reference they cover, and what the AI side can actually do. We build DocStar, so here is an honest view of where…"
+  },
+  {
+   "id": "https://dev.to/juanma_garrido_1974/when-a-salesforce-recommendation-keeps-getting-ignored-write-the-risk-down-and-set-a-limit-3oke",
+   "title": "When a Salesforce recommendation keeps getting ignored, write the risk down and set a limit",
+   "link": "https://dev.to/juanma_garrido_1974/when-a-salesforce-recommendation-keeps-getting-ignored-write-the-risk-down-and-set-a-limit-3oke",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-16T15:28:59+00:00",
+   "summary": "I wrote today, in Spanish, that it took me more than 30 years to understand that not every table deserves you sitting at it. In a Salesforce org, that idea becomes very practical: your judgment is part of the decision, or you are only there to implement what was already decided.…"
+  },
+  {
+   "id": "https://x.com/example/status/1",
+   "title": "Example: thread on docs-as-code",
+   "link": "https://x.com/example/status/1",
+   "source": "X post",
+   "topic": "Community",
+   "summary": "Why I saved it.",
+   "pinned": true,
+   "published": "2026-11-16T12:00:00+00:00"
+  },
+  {
+   "id": "https://medium.com/p/b826a37f8279",
+   "title": "Your Title Page Has a Page Number Again? Blame Link to Previous",
+   "link": "https://medium.com/@szilard.nemeth/your-title-page-has-a-page-number-again-blame-link-to-previous-b826a37f8279?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-16T11:46:57+00:00",
+   "summary": "How to Start Page Numbers on a Specific Page in Word (Without Losing Your Mind) Continue reading on Medium »"
+  },
+  {
+   "id": "https://idratherbewriting.com/blog/path-to-reinventing-tech-comm-career",
+   "title": "A three-phase path to reinventing the tech comm career",
+   "link": "https://idratherbewriting.com/blog/path-to-reinventing-tech-comm-career",
+   "source": "I'd Rather Be Writing",
+   "topic": "Technical writing",
+   "published": "2026-11-15T08:00:00+00:00",
+   "summary": "As agent skills, tools, and frontier models have matured this year, I've been able to compress five days of routine documentation work into one. However, simply doing the traditional tech writer job faster leads to an isolated dead end of covering more and more teams alone.…"
+  },
+  {
+   "id": "https://idratherbewriting.com/blog/ai-book-club-co-existence-mollick",
+   "title": "AI Book Club recording of Co-Existence by Ethan Mollick",
+   "link": "https://idratherbewriting.com/blog/ai-book-club-co-existence-mollick",
+   "source": "I'd Rather Be Writing",
+   "topic": "Technical writing",
+   "published": "2026-11-15T08:00:00+00:00",
+   "summary": "This is a recording of our AI Book Club discussion of Co-Existence: The Next Phase of AI by Ethan Mollick , held November 15, 2026. Most of the group rated the book around three to four stars, noting that broad AI books age quickly even when individual concepts stick. We discuss…"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/81020247/v3.27.0",
+   "title": "v3.27.0",
+   "link": "https://github.com/vale-cli/vale/releases/tag/v3.27.0",
+   "source": "Vale releases",
+   "topic": "Docs tooling",
+   "published": "2026-11-12T19:28:31+00:00",
+   "summary": "French, German, and Spanish Vale now lints French, German, and Spanish in the language itself. Set Lang and run vale sync to download its model: [*.md] Lang = fr Sentences are split and words are tagged with a model for that language, so sequence rules can match on upos: tags.…"
+  },
+  {
+   "id": "https://idratherbewriting.com/blog/updates-to-previous-posts-nov-2026",
+   "title": "Updates to my coffee, car-buying, and zero-drop shoe posts, plus my Jekyll documentation theme",
+   "link": "https://idratherbewriting.com/blog/updates-to-previous-posts-nov-2026",
+   "source": "I'd Rather Be Writing",
+   "topic": "Technical writing",
+   "published": "2026-11-08T08:00:00+00:00",
+   "summary": "I don't often update previous posts, but I recently updated four things I really wanted to revisit. I went back to drinking coffee, returned the Honda Civic mentioned in my car-buying post, stopped recommending zero-drop shoes for calf strains, and released a new version of my…"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/50617428/9.8.1",
+   "title": "mkdocs-material-9.8.1",
+   "link": "https://github.com/squidfunk/mkdocs-material/releases/tag/9.8.1",
+   "source": "MkDocs Material releases",
+   "topic": "Docs tooling",
+   "published": "2026-11-07T13:04:28+00:00",
+   "summary": "Warning Material for MkDocs reaches end of life on May 5, 2027. Critical fixes and security updates continue until that date. We're continuing our work with Zensical , a maintained successor built by the team behind Material for MkDocs. It carries forward what we've learned from…"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/81020247/v3.26.0",
+   "title": "v3.26.0",
+   "link": "https://github.com/vale-cli/vale/releases/tag/v3.26.0",
+   "source": "Vale releases",
+   "topic": "Docs tooling",
+   "published": "2026-10-31T15:08:45+00:00",
+   "summary": "Vale in the browser v3.26.0 is the first release that ships Vale as a WebAssembly module. It's the same engine as the CLI, built for a JavaScript host: a browser, a browser extension, or Node. It runs with no server and no filesystem. Each release now includes…"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/50617428/9.8.0",
+   "title": "mkdocs-material-9.8.0",
+   "link": "https://github.com/squidfunk/mkdocs-material/releases/tag/9.8.0",
+   "source": "MkDocs Material releases",
+   "topic": "Docs tooling",
+   "published": "2026-10-24T09:49:34+00:00",
+   "summary": "Warning Material for MkDocs reaches end of life on May 5, 2027. Critical fixes and security updates continue until that date. We're continuing our work with Zensical , a maintained successor built by the team behind Material for MkDocs. It carries forward what we've learned from…"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/81020247/v3.25.1",
+   "title": "v3.25.1",
+   "link": "https://github.com/vale-cli/vale/releases/tag/v3.25.1",
+   "source": "Vale releases",
+   "topic": "Docs tooling",
+   "published": "2026-10-22T20:44:58+00:00",
+   "summary": "Changelog d7a379d fix: A percent-encoded link target no longer drops a later alert d59ad84 fix: A .tsx file is parsed with the TSX grammar cafff9f fix: A phrase in a rule matches across a line wrap f41c1ed fix: Compile the spelling exception pattern once per vocabulary 4f013da…"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/28710753/v9.2.0",
+   "title": "Sphinx 9.2.0",
+   "link": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.2.0",
+   "source": "Sphinx releases",
+   "topic": "Docs tooling",
+   "published": "2026-10-21T00:05:26+00:00",
+   "summary": "Changelog: https://www.sphinx-doc.org/en/master/changes.html"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/28710753/v9.1.1",
+   "title": "Sphinx 9.1.1",
+   "link": "https://github.com/sphinx-doc/sphinx/releases/tag/v9.1.1",
+   "source": "Sphinx releases",
+   "topic": "Docs tooling",
+   "published": "2026-10-20T00:40:48+00:00",
+   "summary": "Changelog: https://www.sphinx-doc.org/en/master/changes.html"
+  },
+  {
+   "id": "https://news.ycombinator.com/item?id=49945933",
+   "title": "Agents don't need memory, they need documentation",
+   "link": "https://liao.gg/blog/agents-dont-need-memory",
+   "source": "Hacker News: documentation",
+   "topic": "Discussion",
+   "published": "2026-10-03T17:03:37+00:00",
+   "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 392 # Comments: 312"
+  }
+ ]
+}
