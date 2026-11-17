@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:24:28.512345+00:00",
+ "updated": "2026-11-17T21:03:41.145034+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -53,8 +53,9 @@
   },
   {
    "name": "Hacker News: documentation",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0,
+   "error": "<unknown>:7:2: mismatched tag"
   },
   {
    "name": "The Content Wrangler",
