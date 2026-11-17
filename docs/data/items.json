@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:19:56.048626+00:00",
+ "updated": "2026-11-17T20:24:28.512345+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -18,9 +18,8 @@
   },
   {
    "name": "Write the Docs",
-   "ok": false,
-   "count": 0,
-   "error": "<unknown>:21:69: not well-formed (invalid token)"
+   "ok": true,
+   "count": 1
   },
   {
    "name": "Docusaurus releases",
@@ -344,6 +343,15 @@
    "topic": "AI and content",
    "published": "2026-11-10T11:24:12+00:00",
    "summary": "Build the knowledge, not the container"
+  },
+  {
+   "id": "https://www.writethedocs.org/blog/newsletter-november-2026/",
+   "title": "Write the Docs Newsletter – November 2026",
+   "link": "https://www.writethedocs.org/blog/newsletter-november-2026/",
+   "source": "Write the Docs",
+   "topic": "Community",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "Salutations, good documentarians, and welcome to the November newsletter brought to you by me (Aaron) and the rest of the newsletter team. I have been enjoying the changing of the seasons, which here means colorful leaves and crisp air to enjoy the colors in. A fresh breeze of…"
   },
   {
    "id": "https://idratherbewriting.com/blog/updates-to-previous-posts-nov-2026",
