@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:45:20.735238+00:00",
+ "updated": "2026-11-17T08:04:24.515266+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -44,8 +44,9 @@
   },
   {
    "name": "Hacker News: documentation",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 1,
+   "error": "<unknown>:7:2: mismatched tag"
   }
  ],
  "voices": [
@@ -63,6 +64,51 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/docstar_io/tool-call-accuracy-is-a-docs-problem-too-1f13",
+   "title": "Tool-call accuracy is a docs problem too",
+   "link": "https://dev.to/docstar_io/tool-call-accuracy-is-a-docs-problem-too-1f13",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-17T07:40:04+00:00",
+   "summary": "Ubicloud published a careful write-up this week on fixing tool-call accuracy in vLLM , and it hit the Hacker News front page. The headline number: when they served Kimi K2.6 on vLLM 0.28, the model produced a schema-valid tool call only 92% of the time. Two out of every 25 calls…"
+  },
+  {
+   "id": "https://dev.to/kumagallium/the-ai-attached-a-source-to-its-sentence-and-i-cant-tell-if-the-source-really-says-that-until-i-4mc6",
+   "title": "The AI attached a source to its sentence, and I can't tell if the source really says that until I open it and read",
+   "link": "https://dev.to/kumagallium/the-ai-attached-a-source-to-its-sentence-and-i-cant-tell-if-the-source-really-says-that-until-i-4mc6",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-17T06:34:01+00:00",
+   "summary": "When you have an AI gather your notes and documents into a page, the sentences now often come with a source attached. A source at the end of a sentence makes it feel checked. But open the source and read the two side by side, and sometimes a number is different, or the source…"
+  },
+  {
+   "id": "https://medium.com/p/4ffd3aaebc91",
+   "title": "Why Your Technical Writer Resume Isn’t Getting You Hired",
+   "link": "https://medium.com/@hsatyaseel/why-your-technical-writer-resume-isnt-getting-you-hired-4ffd3aaebc91?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-17T05:54:32+00:00",
+   "summary": "What I keep noticing after interviewing 50+ candidates this year, and why the person in the interview rarely matches the resume Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/oleksandr_tytarenko/architecture-decision-record-adr-template-and-example-1i80",
+   "title": "Architecture Decision Record (ADR) Template and Example",
+   "link": "https://dev.to/oleksandr_tytarenko/architecture-decision-record-adr-template-and-example-1i80",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-17T05:39:15+00:00",
+   "summary": "An architecture decision record (ADR) is a short document that captures one decision, the options that were considered and the reasons for the choice. The compact version has five parts: title, status, context, decision and consequences. Below are two templates you can copy, a…"
+  },
+  {
+   "id": "https://medium.com/p/63f3883b6a9c",
+   "title": "Where Does That Data Come From?",
+   "link": "https://medium.com/@stillblueist/where-does-that-data-come-from-63f3883b6a9c?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-16T23:17:52+00:00",
+   "summary": "I asked too late Continue reading on Medium »"
+  },
   {
    "id": "https://medium.com/p/b0a2f3259d56",
    "title": "Cookies vs Cache vs Sessions: What’s the Difference?",
