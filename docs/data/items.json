@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-17T08:04:24.515266+00:00",
+ "updated": "2026-11-17T20:07:38.760190+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
    "ok": true,
    "count": 3
+  },
+  {
+   "name": "Passo Uno",
+   "ok": false,
+   "count": 0,
+   "error": "<unknown>:34:116: not well-formed (invalid token)"
+  },
+  {
+   "name": "Chris Chinchilla",
+   "ok": false,
+   "count": 0,
+   "error": "<unknown>:2:1900: mismatched tag"
   },
   {
    "name": "Write the Docs",
@@ -44,9 +56,8 @@
   },
   {
    "name": "Hacker News: documentation",
-   "ok": false,
-   "count": 1,
-   "error": "<unknown>:7:2: mismatched tag"
+   "ok": true,
+   "count": 3
   }
  ],
  "voices": [
@@ -64,6 +75,60 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/postman/build-a-developer-portal-with-postman-and-fern-in-a-day-on7",
+   "title": "Build a Developer Portal with Postman and Fern in a Day",
+   "link": "https://dev.to/postman/build-a-developer-portal-with-postman-and-fern-in-a-day-on7",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-17T17:59:50+00:00",
+   "summary": "Originally published on the Postman blog . How to turn Postman Collections into a Fern portal with an agent. If your APIs already live in Postman, you may be closer to a real developer portal than your backlog suggests. This walkthrough drives the whole build through a coding…"
+  },
+  {
+   "id": "https://dev.to/aparnadarlington/give-every-interview-claim-a-place-in-your-notes-4eod",
+   "title": "Give every interview claim a place in your notes",
+   "link": "https://dev.to/aparnadarlington/give-every-interview-claim-a-place-in-your-notes-4eod",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-17T17:56:25+00:00",
+   "summary": "A business interview can leave me with three versions of the same afternoon: the story an owner tells, the sequence I saw, and the dates in a notebook. None is automatically wrong. They answer different questions. The trouble starts when I merge them while writing and forget…"
+  },
+  {
+   "id": "https://medium.com/p/e4ebacb249ad",
+   "title": "How to Write API Documentation That Developers Actually Use",
+   "link": "https://medium.com/@apihiver/how-to-write-api-documentation-that-developers-actually-use-e4ebacb249ad?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-17T17:11:20+00:00",
+   "summary": "Ask developers what makes an API hard to use and the answer is usually the same: the documentation. In Postman’s 2020 State of the API… Continue reading on Medium »"
+  },
+  {
+   "id": "https://medium.com/p/cd26197c057c",
+   "title": "Software Documentation Best Practices: From Requirements to Production",
+   "link": "https://medium.com/data-science-collective/software-documentation-best-practices-from-requirements-to-production-cd26197c057c?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-17T15:55:30+00:00",
+   "summary": "How to document a software project from requirements to production — with a practical structure, real examples, and a reusable template. Continue reading on Data Science Collective »"
+  },
+  {
+   "id": "https://medium.com/p/ca43a32107e4",
+   "title": "I Stress-Tested Nosana’s AI Support Assistant With 3 Hard Questions.",
+   "link": "https://steeldistributor.medium.com/i-stress-tested-nosanas-ai-support-assistant-with-3-hard-questions-ca43a32107e4?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-17T15:02:16+00:00",
+   "summary": "Disclosure: I’m writing this for Nosana’s “Provide Feedback on our new Support Assistant Nosa” bounty on Superteam Earn, which pays in NOS… Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/alkeke45cpu/your-docs-live-in-five-formats-generate-one-site-from-the-source-instead-3djh",
+   "title": "Your docs live in five formats. Generate one site from the source instead.",
+   "link": "https://dev.to/alkeke45cpu/your-docs-live-in-five-formats-generate-one-site-from-the-source-instead-3djh",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-17T13:35:05+00:00",
+   "summary": "Your docs live in five formats. Generate one site from the source instead. Every project I work on has the same documentation mess. The REST API is described in an OpenAPI file. The MCP server lists its tools in its own schema. The C++ library carries Doxygen comments. The Go…"
+  },
   {
    "id": "https://dev.to/docstar_io/tool-call-accuracy-is-a-docs-problem-too-1f13",
    "title": "Tool-call accuracy is a docs problem too",
@@ -262,15 +327,6 @@
    "topic": "Docs tooling",
    "published": "2026-10-20T00:40:48+00:00",
    "summary": "Changelog: https://www.sphinx-doc.org/en/master/changes.html"
-  },
-  {
-   "id": "https://news.ycombinator.com/item?id=49945933",
-   "title": "Agents don't need memory, they need documentation",
-   "link": "https://liao.gg/blog/agents-dont-need-memory",
-   "source": "Hacker News: documentation",
-   "topic": "Discussion",
-   "published": "2026-10-03T17:03:37+00:00",
-   "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 392 # Comments: 312"
   }
  ]
 }
