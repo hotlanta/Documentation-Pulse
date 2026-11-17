@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:07:38.760190+00:00",
+ "updated": "2026-11-17T20:19:56.048626+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -7,16 +7,14 @@
    "count": 3
   },
   {
-   "name": "Passo Uno",
-   "ok": false,
-   "count": 0,
-   "error": "<unknown>:34:116: not well-formed (invalid token)"
+   "name": "Chris Chinchilla",
+   "ok": true,
+   "count": 3
   },
   {
-   "name": "Chris Chinchilla",
-   "ok": false,
-   "count": 0,
-   "error": "<unknown>:2:1900: mismatched tag"
+   "name": "Passo.uno (Fabrizio Ferri Benedetti)",
+   "ok": true,
+   "count": 3
   },
   {
    "name": "Write the Docs",
@@ -56,6 +54,16 @@
   },
   {
    "name": "Hacker News: documentation",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "The Content Wrangler",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "Cyborgs Writing (Lance Cummings)",
    "ok": true,
    "count": 3
   }
@@ -128,6 +136,15 @@
    "topic": "Docs-as-code",
    "published": "2026-11-17T13:35:05+00:00",
    "summary": "Your docs live in five formats. Generate one site from the source instead. Every project I work on has the same documentation mess. The REST API is described in an OpenAPI file. The MCP server lists its tools in its own schema. The C++ library carries Doxygen comments. The Go…"
+  },
+  {
+   "id": "https://www.thecontentwrangler.com/p/i-couldnt-read-the-safety-warnings",
+   "title": "I Couldn't Read The Safety Warnings That Came In My New Oura Ring Box",
+   "link": "https://www.thecontentwrangler.com/p/i-couldnt-read-the-safety-warnings",
+   "source": "The Content Wrangler",
+   "topic": "Newsletters",
+   "published": "2026-11-17T13:31:05+00:00",
+   "summary": "The company says it designs a “frictionless” member experience. A laughable proclamation, once you realize you’ll need a magnifying glass to read its in-box safety info"
   },
   {
    "id": "https://dev.to/docstar_io/tool-call-accuracy-is-a-docs-problem-too-1f13",
@@ -220,6 +237,15 @@
    "summary": "I wrote today, in Spanish, that it took me more than 30 years to understand that not every table deserves you sitting at it. In a Salesforce org, that idea becomes very practical: your judgment is part of the decision, or you are only there to implement what was already decided.…"
   },
   {
+   "id": "https://www.thecontentwrangler.com/p/understanding-application-programming",
+   "title": "Understanding Application Programming Interfaces",
+   "link": "https://www.thecontentwrangler.com/p/understanding-application-programming",
+   "source": "The Content Wrangler",
+   "topic": "Newsletters",
+   "published": "2026-11-16T14:31:19+00:00",
+   "summary": "Learn how APIs connect apps and services behind the scenes so they can share data and features reliably."
+  },
+  {
    "id": "https://x.com/example/status/1",
    "title": "Example: thread on docs-as-code",
    "link": "https://x.com/example/status/1",
@@ -237,6 +263,15 @@
    "topic": "Technical writing",
    "published": "2026-11-16T11:46:57+00:00",
    "summary": "How to Start Page Numbers on a Specific Page in Word (Without Losing Your Mind) Continue reading on Medium »"
+  },
+  {
+   "id": "https://chrischinchilla.com/2026/aimusic-composer/",
+   "title": "Music for Your Podcast, Stream or Indie Game: A Practical Guide for Creators Who Are Not Composers",
+   "link": "https://chrischinchilla.com/2026/aimusic-composer/",
+   "source": "Chris Chinchilla",
+   "topic": "Technical writing",
+   "published": "2026-11-16T00:00:00+00:00",
+   "summary": "How creators who don't compose can get music for podcasts, streams and indie games: stock libraries, commissioning a composer or AI generators, plus licensing checks and editing tips."
   },
   {
    "id": "https://idratherbewriting.com/blog/path-to-reinventing-tech-comm-career",
@@ -257,6 +292,24 @@
    "summary": "This is a recording of our AI Book Club discussion of Co-Existence: The Next Phase of AI by Ethan Mollick , held November 15, 2026. Most of the group rated the book around three to four stars, noting that broad AI books age quickly even when individual concepts stick. We discuss…"
   },
   {
+   "id": "https://www.thecontentwrangler.com/p/ai-can-produce-documentation-fast",
+   "title": "AI Can Produce Documentation Fast, But Can You Trust What It Produces?",
+   "link": "https://www.thecontentwrangler.com/p/ai-can-produce-documentation-fast",
+   "source": "The Content Wrangler",
+   "topic": "Newsletters",
+   "published": "2026-11-13T14:31:28+00:00",
+   "summary": "In this Heretto video, learn how structured content helps documentation teams maintain accuracy, control, and consistency as AI becomes part of content production and delivery"
+  },
+  {
+   "id": "https://www.isophist.com/p/how-do-you-prove-where-content-came",
+   "title": "How Do You Prove Where Content Came From?",
+   "link": "https://www.isophist.com/p/how-do-you-prove-where-content-came",
+   "source": "Cyborgs Writing (Lance Cummings)",
+   "topic": "AI and content",
+   "published": "2026-11-13T14:03:49+00:00",
+   "summary": "If you can’t trust your workflow, then you can’t trust your content"
+  },
+  {
    "id": "tag:github.com,2008:Repository/81020247/v3.27.0",
    "title": "v3.27.0",
    "link": "https://github.com/vale-cli/vale/releases/tag/v3.27.0",
@@ -264,6 +317,33 @@
    "topic": "Docs tooling",
    "published": "2026-11-12T19:28:31+00:00",
    "summary": "French, German, and Spanish Vale now lints French, German, and Spanish in the language itself. Set Lang and run vale sync to download its model: [*.md] Lang = fr Sentences are split and words are tagged with a model for that language, so sequence rules can match on upos: tags.…"
+  },
+  {
+   "id": "https://chrischinchilla.com/newsletter/121126/",
+   "title": "Close the lid on the source",
+   "link": "https://chrischinchilla.com/newsletter/121126/",
+   "source": "Chris Chinchilla",
+   "topic": "Technical writing",
+   "published": "2026-11-12T15:00:00+00:00",
+   "summary": "Open source governance collapse, the longest board game in history, won't someone think of the tech bros, and more."
+  },
+  {
+   "id": "https://chrischinchilla.com/2026/vivoo-at-home-tests/",
+   "title": "Trying Vivoo's at-home tests for general health trends",
+   "link": "https://chrischinchilla.com/2026/vivoo-at-home-tests/",
+   "source": "Chris Chinchilla",
+   "topic": "Technical writing",
+   "published": "2026-11-11T09:00:00+00:00",
+   "summary": "Vivoo makes at-home urine test strips that you scan with a phone app. I tried two to see what they can tell you if you hate needles, and how to get a usable scan."
+  },
+  {
+   "id": "https://www.isophist.com/p/worried-about-losing-your-custom",
+   "title": "Worried About Losing Your Custom GPTs?",
+   "link": "https://www.isophist.com/p/worried-about-losing-your-custom",
+   "source": "Cyborgs Writing (Lance Cummings)",
+   "topic": "AI and content",
+   "published": "2026-11-10T11:24:12+00:00",
+   "summary": "Build the knowledge, not the container"
   },
   {
    "id": "https://idratherbewriting.com/blog/updates-to-previous-posts-nov-2026",
@@ -293,6 +373,24 @@
    "summary": "Vale in the browser v3.26.0 is the first release that ships Vale as a WebAssembly module. It's the same engine as the CLI, built for a JavaScript host: a browser, a browser extension, or Node. It runs with no server and no filesystem. Each release now includes…"
   },
   {
+   "id": "https://www.isophist.com/p/what-poetry-teaches-content-professionals",
+   "title": "What Poetry Teaches Content Professionals About AI",
+   "link": "https://www.isophist.com/p/what-poetry-teaches-content-professionals",
+   "source": "Cyborgs Writing (Lance Cummings)",
+   "topic": "AI and content",
+   "published": "2026-10-31T13:10:01+00:00",
+   "summary": "Reflections on LavaCon 2026"
+  },
+  {
+   "id": "https://passo.uno/tech-writing-portfolio-howto/",
+   "title": "Rethinking the tech writing portfolio in the AI age",
+   "link": "https://passo.uno/tech-writing-portfolio-howto/",
+   "source": "Passo.uno (Fabrizio Ferri Benedetti)",
+   "topic": "Technical writing",
+   "published": "2026-10-29T13:00:00+00:00",
+   "summary": "A friend asked me the other day to help them overhaul their portfolio. I’m wary of traditional career advice like “Yeah, of course you need samples”, because it feels cliché and useless. So I sat down and thought about what I would put in a portfolio today. I already know that I…"
+  },
+  {
    "id": "tag:github.com,2008:Repository/50617428/9.8.0",
    "title": "mkdocs-material-9.8.0",
    "link": "https://github.com/squidfunk/mkdocs-material/releases/tag/9.8.0",
@@ -300,6 +398,15 @@
    "topic": "Docs tooling",
    "published": "2026-10-24T09:49:34+00:00",
    "summary": "Warning Material for MkDocs reaches end of life on May 5, 2027. Critical fixes and security updates continue until that date. We're continuing our work with Zensical , a maintained successor built by the team behind Material for MkDocs. It carries forward what we've learned from…"
+  },
+  {
+   "id": "https://passo.uno/adaptive-ui-docs-using-llms/",
+   "title": "Living House: Adaptive UI and docs using in-browser inference",
+   "link": "https://passo.uno/adaptive-ui-docs-using-llms/",
+   "source": "Passo.uno (Fabrizio Ferri Benedetti)",
+   "topic": "Technical writing",
+   "published": "2026-10-23T10:00:00+00:00",
+   "summary": "One of my favorite video games of all time is Control . The main location of the game, the brutalist Oldest House, reacts to the player’s actions and rearranges itself dynamically, moving slabs of concrete around like a sentient being. Now, what if user interfaces and docs could…"
   },
   {
    "id": "tag:github.com,2008:Repository/81020247/v3.25.1",
