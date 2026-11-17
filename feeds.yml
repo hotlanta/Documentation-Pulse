@@ -6,7 +6,7 @@ feeds:
   - {name: "I'd Rather Be Writing", type: rss, topic: "Technical writing", url: "https://idratherbewriting.com/feed.xml"}
   - {name: "Chris Chinchilla", type: rss, topic: "Technical writing", url: "https://chrischinchilla.com/rss.xml"}
   - {name: "Passo.uno (Fabrizio Ferri Benedetti)", type: rss, topic: "Technical writing", url: "https://passo.uno/posts/index.xml"}
-  - {name: "Write the Docs", type: rss, topic: "Community", url: "https://www.writethedocs.org/blog/feed.xml"}
+  - {name: "Write the Docs", type: rss, topic: "Community", url: "https://www.writethedocs.org/blog/archive/atom.xml"}
   - {name: "Docusaurus releases", type: rss, topic: "Docs tooling", url: "https://github.com/facebook/docusaurus/releases.atom"}
   - {name: "MkDocs Material releases", type: rss, topic: "Docs tooling", url: "https://github.com/squidfunk/mkdocs-material/releases.atom"}
   - {name: "Sphinx releases", type: rss, topic: "Docs tooling", url: "https://github.com/sphinx-doc/sphinx/releases.atom"}
