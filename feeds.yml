@@ -4,6 +4,8 @@
 default_limit: 3   # newest posts taken per feed per run; override per feed with limit: 5
 feeds:
   - {name: "I'd Rather Be Writing", type: rss, topic: "Technical writing", url: "https://idratherbewriting.com/feed.xml"}
+  - {name: "Passo Uno", type: rss, topic: "Technical writing", url: "https://passo.uno/feed.xml"}
+  - {name: "Chris Chinchilla", type: rss, topic: "Technical writing", url: "https://chrischinchilla.com/feed.xml"}
   - {name: "Write the Docs", type: rss, topic: "Community", url: "https://www.writethedocs.org/blog/feed.xml"}
   - {name: "Docusaurus releases", type: rss, topic: "Docs tooling", url: "https://github.com/facebook/docusaurus/releases.atom"}
   - {name: "MkDocs Material releases", type: rss, topic: "Docs tooling", url: "https://github.com/squidfunk/mkdocs-material/releases.atom"}
@@ -13,7 +15,7 @@ feeds:
   - {name: "Medium: technical writing", type: rss, topic: "Technical writing", url: "https://medium.com/feed/tag/technical-writing"}
   - {name: "Hacker News: documentation", type: rss, topic: "Discussion", url: "https://hnrss.org/newest?q=documentation&points=50"}
   # Examples to enable (replace the placeholders):
-  - {name: "Example Substack", type: rss, topic: "Newsletters", url: "https://YOURNEWSLETTER.substack.com/feed", enabled: false}
+  - {name: "The Content Wrangler", type: rss, topic: "Newsletters", url: "https://www.thecontentwrangler.com/feed", enabled: false}
   - {name: "Example YouTube channel", type: rss, topic: "Video", url: "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID", enabled: false}
 voices:   # link-only: no API, no scraping
   - {name: "Tom Johnson on X", platform: X, url: "https://x.com/tomjohnson", note: "Technical writing, AI and docs"}
