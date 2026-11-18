@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:03:41.145034+00:00",
+ "updated": "2026-11-18T07:41:43.888729+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -53,9 +53,8 @@
   },
   {
    "name": "Hacker News: documentation",
-   "ok": false,
-   "count": 0,
-   "error": "<unknown>:7:2: mismatched tag"
+   "ok": true,
+   "count": 3
   },
   {
    "name": "The Content Wrangler",
@@ -83,6 +82,42 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/loveydovey/markdown-first-documentation-workflow-for-a-small-catalogue-582c",
+   "title": "Markdown-first documentation workflow for a small catalogue",
+   "link": "https://dev.to/loveydovey/markdown-first-documentation-workflow-for-a-small-catalogue-582c",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-18T06:47:39+00:00",
+   "summary": "Small e-commerce teams usually inherit their documentation from a theme: product descriptions in a database, policy pages in a CMS editor, and no version control anywhere. We moved our guides and policy drafts to a markdown-first workflow, and it changed how often the content…"
+  },
+  {
+   "id": "https://medium.com/p/b9282d113f2d",
+   "title": "Kafka Architecture: How It Works and When It Is Worth Using",
+   "link": "https://medium.com/@eerav_sam/kafka-architecture-how-it-works-and-when-it-is-worth-using-b9282d113f2d?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-18T04:31:03+00:00",
+   "summary": "The big picture Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/yiork/i-tested-6-tools-that-turn-a-screen-recording-into-a-demo-video-and-docs-2026-comparison-322p",
+   "title": "I tested 6 tools that turn a screen recording into a demo video and docs (2026 comparison)",
+   "link": "https://dev.to/yiork/i-tested-6-tools-that-turn-a-screen-recording-into-a-demo-video-and-docs-2026-comparison-322p",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-17T22:48:12+00:00",
+   "summary": "Disclosure first: I'm the founder of Vibrantsnap , one of the tools in this category. It sits at the end, outside the ranking, next to the list of things it doesn't do. I build a tool that turns a screen recording into a product demo video, so I have to know what the others…"
+  },
+  {
+   "id": "https://dev.to/darkveilcorvyn26/retrieval-contracts-for-fresh-access-controlled-engineering-documentation-479i",
+   "title": "Retrieval Contracts for Fresh, Access-Controlled Engineering Documentation",
+   "link": "https://dev.to/darkveilcorvyn26/retrieval-contracts-for-fresh-access-controlled-engineering-documentation-479i",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-17T21:47:48+00:00",
+   "summary": "Short answer: For internal engineering documentation, use a staged retrieval architecture with explicit access rules, bounded queries, and traceable source context, then rerank only fresh, authorized chunks. At 03:00, the page should tell an on-call engineer which runbook…"
+  },
   {
    "id": "https://dev.to/postman/build-a-developer-portal-with-postman-and-fern-in-a-day-on7",
    "title": "Build a Developer Portal with Postman and Fern in a Day",
