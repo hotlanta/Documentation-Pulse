@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:41:43.888729+00:00",
+ "updated": "2026-11-18T20:40:58.989043+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -82,6 +82,78 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/sukriti_vohra_7fcfb5fd185/kadamba-footage-archive-catalogue-api-and-health-checks-bbf",
+   "title": "Kadamba Footage Archive: Catalogue API and Health Checks",
+   "link": "https://dev.to/sukriti_vohra_7fcfb5fd185/kadamba-footage-archive-catalogue-api-and-health-checks-bbf",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-18T20:37:56+00:00",
+   "summary": "Illustrative proposed reference — not a verified production contract. Prepared for Vasanthi Iyer and the nine cataloguing and rights staff at Kadamba Footage Archive, Mysuru, and for outside clients. Kadamba reports 48,000 clips and 1,120 hours of digitised footage . No OpenAPI…"
+  },
+  {
+   "id": "https://medium.com/p/046a2f395fc8",
+   "title": "Building Self-Maintaining API Documentation with AI Agents",
+   "link": "https://levelup.gitconnected.com/building-self-maintaining-api-documentation-with-ai-agents-046a2f395fc8?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-18T16:27:56+00:00",
+   "summary": "If you have ever opened a pull request from a coding agent like Cursor, scrolled through a long diff and found that the only real change… Continue reading on Level Up Coding »"
+  },
+  {
+   "id": "https://medium.com/p/d384d3200225",
+   "title": "Five questions to answer before you publish an SDK code sample",
+   "link": "https://medium.com/@jameson_64305/five-questions-to-answer-before-you-publish-an-sdk-code-sample-d384d3200225?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-18T16:06:48+00:00",
+   "summary": "A practical way to write down what a snippet needs, what it was tested on, and what is still unknown. Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/arhan_khan/docusaurus-for-beginners-turn-markdown-into-a-beautiful-documentation-site-4m05",
+   "title": "Docusaurus for Beginners: Turn Markdown Into a Beautiful Documentation Site",
+   "link": "https://dev.to/arhan_khan/docusaurus-for-beginners-turn-markdown-into-a-beautiful-documentation-site-4m05",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-18T15:42:04+00:00",
+   "summary": "Docusaurus is Meta's open-source tool for building documentation websites, and it is the default choice for an enormous number of open-source projects. You write Markdown, and Docusaurus turns it into a fast, searchable, versioned docs site with navigation, dark mode, and a blog…"
+  },
+  {
+   "id": "https://dev.to/joanbernier/a-checklist-to-invert-image-screenshots-for-dark-mode-docs-3ooo",
+   "title": "A Checklist to Invert Image Screenshots for Dark-Mode Docs",
+   "link": "https://dev.to/joanbernier/a-checklist-to-invert-image-screenshots-for-dark-mode-docs-3ooo",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-18T15:41:37+00:00",
+   "summary": "When a docs site gets a dark theme, the screenshots are the part nobody wants to touch. Light-theme images on a dark page glow like a flashlight, and the quick fix is to invert image files so the page and the pictures agree. If you have ever had to invert image files by hand for…"
+  },
+  {
+   "id": "https://www.isophist.com/p/how-do-i-migrate-a-custom-gpt-to",
+   "title": "How Do I Migrate a Custom GPT to a Plugin?",
+   "link": "https://www.isophist.com/p/how-do-i-migrate-a-custom-gpt-to",
+   "source": "Cyborgs Writing (Lance Cummings)",
+   "topic": "AI and content",
+   "published": "2026-11-18T14:26:46+00:00",
+   "summary": "Don’t just move your GPT. Rebuild what’s inside it."
+  },
+  {
+   "id": "https://www.thecontentwrangler.com/p/curious-about-ai-content-and-whats",
+   "title": "Curious About AI, Content, And What's Coming Next?",
+   "link": "https://www.thecontentwrangler.com/p/curious-about-ai-content-and-whats",
+   "source": "The Content Wrangler",
+   "topic": "Newsletters",
+   "published": "2026-11-18T13:31:16+00:00",
+   "summary": "Gain insight into AI, content, and what's changing. Just $20 a month!"
+  },
+  {
+   "id": "https://medium.com/p/e3c7f6ab2f3d",
+   "title": "6 Best Tools for Writing SOPs: A Technical Writer’s View",
+   "link": "https://medium.com/@janeera.devaarul/best-tools-for-writing-sops-e3c7f6ab2f3d?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-18T08:37:32+00:00",
+   "summary": "Which tool helps at each stage of an SOP’s life, from first draft to retirement Continue reading on Medium »"
+  },
   {
    "id": "https://dev.to/loveydovey/markdown-first-documentation-workflow-for-a-small-catalogue-582c",
    "title": "Markdown-first documentation workflow for a small catalogue",
