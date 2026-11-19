@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:37:03.146493+00:00",
+ "updated": "2026-11-19T20:46:45.860321+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -53,9 +53,8 @@
   },
   {
    "name": "Hacker News: documentation",
-   "ok": false,
-   "count": 0,
-   "error": "<unknown>:7:2: mismatched tag"
+   "ok": true,
+   "count": 3
   },
   {
    "name": "The Content Wrangler",
@@ -83,6 +82,87 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/bright_oparaji_989ab44636/we-measured-2069-readmes-then-measured-our-own-ruler-4lc8",
+   "title": "We measured 2,069 READMEs, then measured our own ruler",
+   "link": "https://dev.to/bright_oparaji_989ab44636/we-measured-2069-readmes-then-measured-our-own-ruler-4lc8",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-19T20:12:54+00:00",
+   "summary": "Every figure in our README study came from a regex. For a while, the honest answer to \"how often are those regexes wrong\" was that we did not know. We published a study of 2,069 public GitHub READMEs . It reported, among other things, that 99% of them never say who the project…"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/50617428/9.8.2",
+   "title": "mkdocs-material-9.8.2",
+   "link": "https://github.com/squidfunk/mkdocs-material/releases/tag/9.8.2",
+   "source": "MkDocs Material releases",
+   "topic": "Docs tooling",
+   "published": "2026-11-19T19:51:06+00:00",
+   "summary": "Fixed a security vulnerability in the privacy plugin"
+  },
+  {
+   "id": "https://dev.to/aicoding-guide/are-claudemd-and-agentsmd-a-revival-of-the-design-document-3flh",
+   "title": "Are CLAUDE.md and AGENTS.md a revival of the design document",
+   "link": "https://dev.to/aicoding-guide/are-claudemd-and-agentsmd-a-revival-of-the-design-document-3flh",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-19T19:16:21+00:00",
+   "summary": "Originally published at https://aicoding-guide.com . CLAUDE.md and AGENTS.md are not a revival of the design document. The one thing they have that a design doc never did is being read every time — and in exchange they carry a length ceiling and a merge order. Written in the…"
+  },
+  {
+   "id": "https://dev.to/adejuwon-00/from-code-to-docs-building-an-expo-developer-guide-with-thally-2e69",
+   "title": "From Code to Docs: Building an Expo Developer Guide with Thally",
+   "link": "https://dev.to/adejuwon-00/from-code-to-docs-building-an-expo-developer-guide-with-thally-2e69",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-19T18:50:07+00:00",
+   "summary": "Getting an app running is one thing. Understanding enough of it to change something is another. That's what I wanted to focus on when I started building this guide. I've worked with Expo before, and a small task-list app gave me something practical to teach: run the app,…"
+  },
+  {
+   "id": "https://medium.com/p/c5dc616144b5",
+   "title": "Your Whole Document Went Landscape? How to Rotate Just One Page in Word",
+   "link": "https://medium.com/@szilard.nemeth/your-whole-document-went-landscape-how-to-rotate-just-one-page-in-word-c5dc616144b5?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-19T15:22:46+00:00",
+   "summary": "You have one wide table. Maybe it’s a long adverse events listing, maybe a schedule of assessments with fourteen visit columns. It needs a… Continue reading on Medium »"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/81020247/v3.28.1",
+   "title": "v3.28.1",
+   "link": "https://github.com/vale-cli/vale/releases/tag/v3.28.1",
+   "source": "Vale releases",
+   "topic": "Docs tooling",
+   "published": "2026-11-19T15:04:13+00:00",
+   "summary": "Changelog 58f0dbf fix: A raw-scoped rule keeps its spaces literal 36d46a8 fix: Only a space between words matches a line wrap"
+  },
+  {
+   "id": "https://www.thecontentwrangler.com/p/put-ai-to-work-in-your-technical",
+   "title": "Put AI To Work In Your Technical Writing Workflow — AI Workshop for Tech Writers And Content Creators (Spring 2027)",
+   "link": "https://www.thecontentwrangler.com/p/put-ai-to-work-in-your-technical",
+   "source": "The Content Wrangler",
+   "topic": "Newsletters",
+   "published": "2026-11-19T14:31:24+00:00",
+   "summary": "Get real results from your content with AI-powered workflows and save 10% off the cost of registration when you use discount code — TCW — at checkout"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/81020247/v3.28.0",
+   "title": "v3.28.0",
+   "link": "https://github.com/vale-cli/vale/releases/tag/v3.28.0",
+   "source": "Vale releases",
+   "topic": "Docs tooling",
+   "published": "2026-11-19T14:16:03+00:00",
+   "summary": "Changelog 8ed0325 chore: Slim the Docker image and publish it on release eaae4d2 chore: Slim the Docker image 8afba90 feat: Read Markdoc 692fd15 fix: Read every apostrophe entity as an apostrophe d239db2 fix: A run that wraps in a list item is placed where it is 9b73a31 chore:…"
+  },
+  {
+   "id": "https://medium.com/p/3a7ed7a91c08",
+   "title": "Build the pipeline, not just the page",
+   "link": "https://medium.com/@gideonbehrensmeyer/build-the-pipeline-not-just-the-page-3a7ed7a91c08?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-19T12:30:49+00:00",
+   "summary": "Most documentation teams I talk to have the same problem in a slightly different shape. The content is mostly fine. Then the product… Continue reading on Medium »"
+  },
   {
    "id": "https://dev.to/docstar_io/what-are-mcp-tool-annotations-2ihg",
    "title": "What Are MCP Tool Annotations?",
