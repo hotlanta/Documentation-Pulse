@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:40:58.989043+00:00",
+ "updated": "2026-11-19T07:37:03.146493+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -53,8 +53,9 @@
   },
   {
    "name": "Hacker News: documentation",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0,
+   "error": "<unknown>:7:2: mismatched tag"
   },
   {
    "name": "The Content Wrangler",
@@ -82,6 +83,33 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/docstar_io/what-are-mcp-tool-annotations-2ihg",
+   "title": "What Are MCP Tool Annotations?",
+   "link": "https://dev.to/docstar_io/what-are-mcp-tool-annotations-2ihg",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-19T03:40:04+00:00",
+   "summary": "MCP tool annotations are hints that an MCP server, such as the one DocStar hosts for every docs collection, attaches to each tool to tell AI clients how risky it is: whether it only reads data, whether it can delete or overwrite, whether repeating it is safe, and whether it…"
+  },
+  {
+   "id": "https://dev.to/hcxshh/i-traced-one-marriage-requirement-through-four-chinese-documents-the-lists-disagreed-2ae4",
+   "title": "I traced one marriage requirement through four Chinese documents — the lists disagreed",
+   "link": "https://dev.to/hcxshh/i-traced-one-marriage-requirement-through-four-chinese-documents-the-lists-disagreed-2ae4",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-18T22:53:18+00:00",
+   "summary": "Tracing one marriage requirement through four Chinese documents — the lists disagreed My site publishes what the rule says . This is the meta version: what happened when I tried to verify one marriage-registration requirement end to end, and where the official texts stopped…"
+  },
+  {
+   "id": "https://dev.to/sukriti_vohra_7fcfb5fd185/kadamba-footage-archive-catalogue-api-client-reference-3m4a",
+   "title": "Kadamba Footage Archive Catalogue API: Client Reference",
+   "link": "https://dev.to/sukriti_vohra_7fcfb5fd185/kadamba-footage-archive-catalogue-api-client-reference-3m4a",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-18T21:07:58+00:00",
+   "summary": "Illustrative client reference — authentication pending confirmation. Irfan Pasha has not yet confirmed the authentication scheme. The URLs, OAuth 2.0/OIDC design, scope names, token lifetime, payloads, and monitoring settings are proposed documentation details rather than a…"
+  },
   {
    "id": "https://dev.to/sukriti_vohra_7fcfb5fd185/kadamba-footage-archive-catalogue-api-and-health-checks-bbf",
    "title": "Kadamba Footage Archive: Catalogue API and Health Checks",
