@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:27:35.764963+00:00",
+ "updated": "2026-11-20T16:25:57.393772+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -53,8 +53,9 @@
   },
   {
    "name": "Hacker News: documentation",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0,
+   "error": "<unknown>:7:2: mismatched tag"
   },
   {
    "name": "The Content Wrangler",
@@ -82,6 +83,60 @@
   }
  ],
  "items": [
+  {
+   "id": "https://medium.com/p/e889a144bdb4",
+   "title": "API Documentation Tools Compared: Mintlify, GitBook, Velu and Document360",
+   "link": "https://levelup.gitconnected.com/api-documentation-tools-compared-mintlify-gitbook-velu-and-document360-e889a144bdb4?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-20T16:20:10+00:00",
+   "summary": "I compared some of the best documentation tools for modern API documentation support so you don’t have to, and here is my honest feedback… Continue reading on Level Up Coding »"
+  },
+  {
+   "id": "https://medium.com/p/aaf2b73b2a38",
+   "title": "Write your async API guide backwards, starting from the finished job",
+   "link": "https://medium.com/@jameson_64305/write-your-async-api-guide-backwards-starting-from-the-finished-job-aaf2b73b2a38?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-20T15:48:43+00:00",
+   "summary": "A five-layer outline for long-running operations, with a worked example you can copy. Continue reading on Medium »"
+  },
+  {
+   "id": "https://medium.com/p/906332e528d1",
+   "title": "What Sections Should a SIWES Technical Report Have?",
+   "link": "https://medium.com/@ebukaval99/what-sections-should-a-siwes-technical-report-have-906332e528d1?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-20T15:01:01+00:00",
+   "summary": "University guides commonly list a summary, contents, introduction, a main body (method or procedure, results, discussion), conclusions… Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/acfpmgt/records-management-for-community-associations-a-practical-file-system-design-5cba",
+   "title": "Records management for community associations: a practical file system design",
+   "link": "https://dev.to/acfpmgt/records-management-for-community-associations-a-practical-file-system-design-5cba",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-20T14:57:53+00:00",
+   "summary": "Community association records are easier to maintain when files follow a consistent structure, naming convention, access policy, and backup process. Boards need records that can be found, reviewed, and transferred without relying on one person's memory. A practical design should…"
+  },
+  {
+   "id": "https://dev.to/perfectvector/making-our-api-docs-available-as-markdown-for-coding-agents-llmstxt-accept-headers-55o4",
+   "title": "Making Our API Docs Available as Markdown for Coding Agents (llms.txt, Accept Headers)",
+   "link": "https://dev.to/perfectvector/making-our-api-docs-available-as-markdown-for-coding-agents-llmstxt-accept-headers-55o4",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-20T14:00:00+00:00",
+   "summary": "This post was drafted with AI assistance and reviewed by the PerfectVector team. An HTML documentation page can carry far more than its documentation text. We checked what our own \"API for AI agents\" page sends when you fetch it, and what we publish alongside it. All numbers are…"
+  },
+  {
+   "id": "https://dev.to/tutorialai/connect-chatgpt-claude-or-cursor-to-your-tutorial-videos-over-mcp-5cae",
+   "title": "Connect ChatGPT, Claude or Cursor to your tutorial videos over MCP",
+   "link": "https://dev.to/tutorialai/connect-chatgpt-claude-or-cursor-to-your-tutorial-videos-over-mcp-5cae",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-20T13:29:13+00:00",
+   "summary": "If you maintain product tutorials, most of the work happens after the first recording: a renamed button means a new script line, a new market means a translation, and a reviewer leaves notes you have to work through. Tutorial AI exposes its projects through a hosted MCP server,…"
+  },
   {
    "id": "https://dev.to/david_wang/when-the-ticket-says-as-discussed-go-back-to-the-recording-4068",
    "title": "When the ticket says \"as discussed,\" go back to the recording",
