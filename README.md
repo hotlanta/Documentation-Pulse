@@ -1,4 +1,5 @@
-# Docs Pulse
+# In the Tech Writer Loop
+
 Documentation-writing news reader. GitHub Actions fetches feeds into `docs/data/items.json`; a PWA in `docs/` reads it.
 
 ## Setup
