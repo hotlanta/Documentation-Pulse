@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:46:45.860321+00:00",
+ "updated": "2026-11-20T07:27:35.764963+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -83,13 +83,40 @@
  ],
  "items": [
   {
-   "id": "https://dev.to/bright_oparaji_989ab44636/we-measured-2069-readmes-then-measured-our-own-ruler-4lc8",
-   "title": "We measured 2,069 READMEs, then measured our own ruler",
-   "link": "https://dev.to/bright_oparaji_989ab44636/we-measured-2069-readmes-then-measured-our-own-ruler-4lc8",
+   "id": "https://dev.to/david_wang/when-the-ticket-says-as-discussed-go-back-to-the-recording-4068",
+   "title": "When the ticket says \"as discussed,\" go back to the recording",
+   "link": "https://dev.to/david_wang/when-the-ticket-says-as-discussed-go-back-to-the-recording-4068",
    "source": "dev.to: documentation",
    "topic": "Docs-as-code",
-   "published": "2026-11-19T20:12:54+00:00",
-   "summary": "Every figure in our README study came from a regex. For a while, the honest answer to \"how often are those regexes wrong\" was that we did not know. We published a study of 2,069 public GitHub READMEs . It reported, among other things, that 99% of them never say who the project…"
+   "published": "2026-11-20T06:25:42+00:00",
+   "summary": "By Alice Disclosure: This article was written with support from VoxStudio. I'm Alice, and I use VoxStudio for Mac. The method below is meant to stand on its own, even if you never open that app. A pull request comes back with a one-line comment: \"Let's go with option B, as…"
+  },
+  {
+   "id": "https://dev.to/kenhyou/agents-forget-so-i-write-it-down-3kp0",
+   "title": "Agents forget, so I write it down",
+   "link": "https://dev.to/kenhyou/agents-forget-so-i-write-it-down-3kp0",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-20T05:54:03+00:00",
+   "summary": "In September I asked a simple question about our system: if I change this table, what breaks? There was nowhere to look it up. We had eleven repositories. One of them had real documentation, and that documentation wasn't even in version control. Another one's README was a single…"
+  },
+  {
+   "id": "https://medium.com/p/be5dc01c4539",
+   "title": "What 18,000+ prompts taught me about writing docs with AI agents",
+   "link": "https://medium.com/@hsatyaseel/what-18-000-prompts-taught-me-about-writing-docs-with-ai-agents-be5dc01c4539?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-20T04:49:35+00:00",
+   "summary": "I condensed 3.5 years of prompting experience into 30 highly effective prompts for AI-native technical writers. Here’s how the system… Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/robby_jay_2df64e38500514f/do-the-task-once-get-the-sop-for-free-how-i-stopped-writing-documentation-by-hand-408k",
+   "title": "Do the Task Once, Get the SOP for Free: How I Stopped Writing Documentation by Hand",
+   "link": "https://dev.to/robby_jay_2df64e38500514f/do-the-task-once-get-the-sop-for-free-how-i-stopped-writing-documentation-by-hand-408k",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-20T02:14:04+00:00",
+   "summary": "In 17 years of IT work, from the Navy to MSPs to running an IT department, I've learned one thing about documentation: everybody agrees it matters, and nobody has time to write it. You fix a printer mapping for the fifth time this month. You know you should write it down. But…"
   },
   {
    "id": "tag:github.com,2008:Repository/50617428/9.8.2",
@@ -97,8 +124,17 @@
    "link": "https://github.com/squidfunk/mkdocs-material/releases/tag/9.8.2",
    "source": "MkDocs Material releases",
    "topic": "Docs tooling",
-   "published": "2026-11-19T19:51:06+00:00",
-   "summary": "Fixed a security vulnerability in the privacy plugin"
+   "published": "2026-11-19T20:55:21+00:00",
+   "summary": "Fixed a security vulnerability in the privacy plugin ( GHSA-wxw8-4jgj-q85j )"
+  },
+  {
+   "id": "https://dev.to/bright_oparaji_989ab44636/we-measured-2069-readmes-then-measured-our-own-ruler-4lc8",
+   "title": "We measured 2,069 READMEs, then measured our own ruler",
+   "link": "https://dev.to/bright_oparaji_989ab44636/we-measured-2069-readmes-then-measured-our-own-ruler-4lc8",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-19T20:12:54+00:00",
+   "summary": "Every figure in our README study came from a regex. For a while, the honest answer to \"how often are those regexes wrong\" was that we did not know. We published a study of 2,069 public GitHub READMEs . It reported, among other things, that 99% of them never say who the project…"
   },
   {
    "id": "https://dev.to/aicoding-guide/are-claudemd-and-agentsmd-a-revival-of-the-design-document-3flh",
