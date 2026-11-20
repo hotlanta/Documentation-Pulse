@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:25:57.393772+00:00",
+ "updated": "2026-11-20T20:30:55.424909+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -83,6 +83,15 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/yonto/how-a-large-repo-keeps-its-docs-true-the-standing-rule-234c",
+   "title": "How a large repo keeps its docs true: the standing rule",
+   "link": "https://dev.to/yonto/how-a-large-repo-keeps-its-docs-true-the-standing-rule-234c",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-20T20:00:00+00:00",
+   "summary": "In a repo worked on by AI coding agents, the docs have an unusual reader. Each new session starts cold, reads AGENTS.md , the design notes and the skills, and then builds on what it read. So a doc is not only for people: it is input to the next piece of code, and a wrong…"
+  },
   {
    "id": "https://medium.com/p/e889a144bdb4",
    "title": "API Documentation Tools Compared: Mintlify, GitBook, Velu and Document360",
