@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:30:55.424909+00:00",
+ "updated": "2026-11-21T07:22:38.183830+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -53,9 +53,8 @@
   },
   {
    "name": "Hacker News: documentation",
-   "ok": false,
-   "count": 0,
-   "error": "<unknown>:7:2: mismatched tag"
+   "ok": true,
+   "count": 3
   },
   {
    "name": "The Content Wrangler",
@@ -83,6 +82,42 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/frosty45/internal-engineering-documentation-retrieval-freshness-windows-and-index-cost-4l69",
+   "title": "Internal Engineering Documentation Retrieval: Freshness Windows and Index Cost",
+   "link": "https://dev.to/frosty45/internal-engineering-documentation-retrieval-freshness-windows-and-index-cost-4l69",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-21T05:38:06+00:00",
+   "summary": "Short answer: use a freshness window based on document change rate and incident risk, then route only changed pages through incremental indexing; this keeps retrieval answers current without paying to re-embed a quiet corpus. For a property-management team, the concrete case is…"
+  },
+  {
+   "id": "https://dev.to/docstar_io/how-to-audit-your-docs-with-an-ai-agent-43po",
+   "title": "How to Audit Your Docs with an AI Agent",
+   "link": "https://dev.to/docstar_io/how-to-audit-your-docs-with-an-ai-agent-43po",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-21T03:40:04+00:00",
+   "summary": "With DocStar, you can audit your whole docs site with an AI agent in one prompt: connect Claude Code, Cursor or Codex to the DocStar MCP, ask it to find gaps, outdated pages and broken links, and it reads every page, reports what it found, and saves each fix as a draft for you…"
+  },
+  {
+   "id": "https://medium.com/p/f95559bd917a",
+   "title": "Two times to put in your first incident update",
+   "link": "https://medium.com/@japanittools/two-times-to-put-in-your-first-incident-update-f95559bd917a?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-21T03:18:23+00:00",
+   "summary": "“When will exports work again?” It’s 14:10 in Tokyo. You’ve just reproduced the client’s CSV error. The engineer on call is still checking… Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/kompiro/one-sentence-in-claudemd-did-most-of-what-an-adr-search-skill-did-and-karasu-mapped-itself-4gd5",
+   "title": "One sentence in CLAUDE.md did most of what an ADR search skill did, and karasu mapped itself (karasu weekly)",
+   "link": "https://dev.to/kompiro/one-sentence-in-claudemd-did-most-of-what-an-adr-search-skill-did-and-karasu-mapped-itself-4gd5",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-21T01:31:16+00:00",
+   "summary": "karasu is a text modeling language for system architecture, inspired by the C4 model. You describe your system in .krs files and karasu draws the views: system, deployment, and team structure. I haven't written its code by hand; everything goes through Claude Code. This is the…"
+  },
   {
    "id": "https://dev.to/yonto/how-a-large-repo-keeps-its-docs-true-the-standing-rule-234c",
    "title": "How a large repo keeps its docs true: the standing rule",
@@ -145,6 +180,15 @@
    "topic": "Docs-as-code",
    "published": "2026-11-20T13:29:13+00:00",
    "summary": "If you maintain product tutorials, most of the work happens after the first recording: a renamed button means a new script line, a new market means a translation, and a reviewer leaves notes you have to work through. Tutorial AI exposes its projects through a hosted MCP server,…"
+  },
+  {
+   "id": "https://idratherbewriting.com/blog/quick-reference-agent-intelligence",
+   "title": "Rediscovering the quick reference for a new audience: agents",
+   "link": "https://idratherbewriting.com/blog/quick-reference-agent-intelligence",
+   "source": "I'd Rather Be Writing",
+   "topic": "Technical writing",
+   "published": "2026-11-20T08:00:00+00:00",
+   "summary": "I recently added quick reference pages to our API docs. Each page gives a stripped-down summary of an API: key product details, when to use it and when not to, setup details, common mistakes, and a list of capabilities that link to the guides. The pages are generated from the…"
   },
   {
    "id": "https://dev.to/david_wang/when-the-ticket-says-as-discussed-go-back-to-the-recording-4068",
